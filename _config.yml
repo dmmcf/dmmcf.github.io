@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: GitHub pages site of dmmcf
+title: GitHub Pages site of dmmcf
 email: dmmcf@dmmcf.net
 description: >- # this means to ignore newlines until "baseurl:"
   This site is an experiment. So far, so good.
