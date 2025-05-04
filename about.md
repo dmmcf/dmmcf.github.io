@@ -3,4 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-I need an About page? I'll put it on the list.
+My programming runs to numerical analysis, mostly in Python. Some C and Fortran creep in from time to time. None of it is here, yet, for a variety of reasons.

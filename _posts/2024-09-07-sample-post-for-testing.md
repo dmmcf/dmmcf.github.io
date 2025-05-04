@@ -1,9 +1,7 @@
 ---
 layout: post
-title:  'Sample post'
-date:   2024-09-07 16:53:23 +0800
-categories: jekyll update
+title:  'What to expect here'
+date:   2025-05-04 12:20:30 +0800
+categories: update
 ---
-One more piece to put in place for testing. So far, so good.
-
-Content will come later.
+Not much, actually. I'm trying to make this site look a little less like a bare scaffold, but I don't really have much to hang on it.
